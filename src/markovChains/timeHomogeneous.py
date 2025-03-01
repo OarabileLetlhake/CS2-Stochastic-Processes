@@ -1,0 +1,4 @@
+import markovm
+
+class MCHomogeneous:
+    ...
