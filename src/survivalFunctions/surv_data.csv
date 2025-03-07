@@ -1,0 +1,13 @@
+Patient,Op_time,End,Reason,Group
+1,0,120,Censored,B
+2,0,68,Death,A
+3,0,40,Death,B
+4,4,120,Censored,B
+5,5,35,Censored,A
+6,10,40,Death,A
+7,20,120,Censored,B
+8,44,115,Death,B
+9,50,90,Death,B
+10,63,98,Death,A
+11,70,120,Death,B
+12,80,110,Death,B
